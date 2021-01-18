@@ -1,0 +1,17 @@
+C:\Users\Luka\source\repos\BolnicaIspit2\BolnicaIspit2\bin\Debug\BolnicaIspit2.exe.config
+C:\Users\Luka\source\repos\BolnicaIspit2\BolnicaIspit2\bin\Debug\BolnicaIspit2.exe
+C:\Users\Luka\source\repos\BolnicaIspit2\BolnicaIspit2\bin\Debug\BolnicaIspit2.pdb
+C:\Users\Luka\source\repos\BolnicaIspit2\BolnicaIspit2\obj\Debug\BolnicaIspit2.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\BolnicaIspit2\BolnicaIspit2\obj\Debug\MainWindow.g.cs
+C:\Users\Luka\source\repos\BolnicaIspit2\BolnicaIspit2\obj\Debug\App.g.cs
+C:\Users\Luka\source\repos\BolnicaIspit2\BolnicaIspit2\obj\Debug\BolnicaIspit2_MarkupCompile.cache
+C:\Users\Luka\source\repos\BolnicaIspit2\BolnicaIspit2\obj\Debug\BolnicaIspit2_MarkupCompile.lref
+C:\Users\Luka\source\repos\BolnicaIspit2\BolnicaIspit2\obj\Debug\MainWindow.baml
+C:\Users\Luka\source\repos\BolnicaIspit2\BolnicaIspit2\obj\Debug\BolnicaIspit2.g.resources
+C:\Users\Luka\source\repos\BolnicaIspit2\BolnicaIspit2\obj\Debug\BolnicaIspit2.Properties.Resources.resources
+C:\Users\Luka\source\repos\BolnicaIspit2\BolnicaIspit2\obj\Debug\BolnicaIspit2.csproj.GenerateResource.cache
+C:\Users\Luka\source\repos\BolnicaIspit2\BolnicaIspit2\obj\Debug\BolnicaIspit2.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\BolnicaIspit2\BolnicaIspit2\obj\Debug\BolnicaIspit2.exe
+C:\Users\Luka\source\repos\BolnicaIspit2\BolnicaIspit2\obj\Debug\BolnicaIspit2.pdb
+C:\Users\Luka\source\repos\BolnicaIspit2\BolnicaIspit2\obj\Debug\unosNovog.g.cs
+C:\Users\Luka\source\repos\BolnicaIspit2\BolnicaIspit2\obj\Debug\unosNovog.baml

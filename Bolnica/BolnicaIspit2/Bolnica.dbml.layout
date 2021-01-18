@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Bolnica">
+  <DataContextMoniker Name="/BolnicaDataContext" />
+  <nestedChildShapes>
+    <classShape Id="273d5702-d001-4e9d-b393-4cd5a8e53e88" absoluteBounds="0.75, 2.625, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/BolnicaDataContext/Odeljenje" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3fec6ad9-aa41-4daf-9184-06e4beb426b7" absoluteBounds="0.765, 3.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e8750e7c-67df-4536-8626-8e66bc7e9293" absoluteBounds="6.25, 2.125, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BolnicaDataContext/Pacijent" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0adde37d-3f46-4439-86ae-a688b9a0d1e1" absoluteBounds="6.265, 2.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="33b66a0c-285a-445f-8d93-3a5c196f1911" absoluteBounds="3.5, 2.5, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/BolnicaDataContext/Soba" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cafc7e13-f56a-4c7b-bd48-5bd6eddb3971" absoluteBounds="3.515, 2.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.75 : 3.81899251302083); (1.75 : 4.11464680989583); (6.25 : 4.11464680989583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BolnicaDataContext/Odeljenje/Odeljenje_Pacijent" />
+      <nodes>
+        <classShapeMoniker Id="273d5702-d001-4e9d-b393-4cd5a8e53e88" />
+        <classShapeMoniker Id="e8750e7c-67df-4536-8626-8e66bc7e9293" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 3.19314697265625); (6.25 : 3.19314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BolnicaDataContext/Soba/Soba_Pacijent" />
+      <nodes>
+        <classShapeMoniker Id="33b66a0c-285a-445f-8d93-3a5c196f1911" />
+        <classShapeMoniker Id="e8750e7c-67df-4536-8626-8e66bc7e9293" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.22199625651042); (3.5 : 3.22199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BolnicaDataContext/Odeljenje/Odeljenje_Soba" />
+      <nodes>
+        <classShapeMoniker Id="273d5702-d001-4e9d-b393-4cd5a8e53e88" />
+        <classShapeMoniker Id="33b66a0c-285a-445f-8d93-3a5c196f1911" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
